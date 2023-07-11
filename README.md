@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a System and Azure Cloud Admin. I work in an enterprise on-prem cloud infrastructure team and also exploring the cloud using Azure. <br>
+I'm currently a System and Azure Cloud Admin. I work in an enterprise on-prem cloud infrastructure team and also exploring the cloud using Azure. <br><br>
 On the side, I do Software development and share what I'm learning along the way. <br><br>
 
 - 🌱 I’m currently learning **Bash, Terraform & Kubernetes**<br><br>
