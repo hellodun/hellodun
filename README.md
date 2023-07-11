@@ -3,7 +3,7 @@ I'm currently a System and Azure Cloud Admin. I work in an enterprise on-prem cl
 On the side, I do Software development and share what I'm learning along the way. <br><br>
 
 - 🌱 I’m currently learning **Bash, Terraform & Kubernetes**<br><br>
-- 📝 I write about tech I'm using and learning on [Hashnode](https://rishabkumar.com) <br><br>
+- 📝 I write about tech I'm using and learning on [blog.hellodun.com](https://blog.hellodun.com) <br><br>
 - 💬 Ask me about **Azure, Linux**<br><br>
 - ⚡ Fun fact about me: **I love Formula 1 😅** <br><br>
 
