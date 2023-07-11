@@ -1,11 +1,13 @@
 # 💫 About Me:
+I'm currently a System and Azure Cloud Admin. I work in an enterprise on-prem cloud infrastructure team and also exploring the cloud using Azure. I'm also getting into Software development and sharing what I'm learning along the way. <br><br>
+
 - 🌱 I’m currently learning **Bash, Terraform & Kubernetes**<br><br>
 - 📝 I write about tech I'm using and learning on [blog.hellodun.com](blog.hellodun.com)<br><br>
 - 💬 Ask me about **Azure, Linux**<br><br>
-- ⚡ Fun fact about me: **I love Formula 1 😅**
+- ⚡ Fun fact about me: **I love Formula 1 😅** <br><br>
 
 
-## 🌐 My Contacts:
+## 🌐 Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duncan-gatuthu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_hellodun) 
 
 ### 💻 Tech Stack:
