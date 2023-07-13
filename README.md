@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a System and Azure Cloud Admin. I work in an on-prem enterprise cloud infrastructure team and also exploring the cloud with Azure. <br><br>
+I'm ```Duncan```, a System and Azure Cloud Admin. I work in an on-prem enterprise cloud infrastructure team and also exploring the cloud with Azure. <br><br>
 On the side, I do Software development and share what I'm learning along the way. <br><br>
 
 - 🌱 I’m currently learning **Bash, Terraform & Kubernetes**<br><br>
