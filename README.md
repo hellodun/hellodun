@@ -1,15 +1,15 @@
 # 💫 About Me:
-I'm ***Duncan***, a System and Azure Cloud Admin. I work in an on-prem enterprise cloud infrastructure team and also exploring the cloud with Azure. <br><br>
+I'm ***Duncan***, a System and Azure cloud engineer. I work in an on-prem cloud infrastructure team and also exploring the cloud with Azure. <br><br>
 On the side, I do Software development and share what I'm learning along the way. <br><br>
 
-- 🌱 I’m currently learning **NextJS, Bash, Terraform & Kubernetes**<br><br>
-- 📝 I write about the tech I'm using and learning on [blog.hellodun.com](https://blog.hellodun.com) <br><br>
-- 💬 Ask me about **Azure, Linux**<br><br>
+- 🌱 I’m currently learning **NextJS, Bash, Ansible & Kubernetes**<br><br>
+- 📝 I write about the tech I'm using and learning on [hellodun.com/blogs](https://www.hellodun.com/blogs) <br><br>
+- 💬 Ask me about **Azure, Linux, Docker**<br><br>
 - ⚡ Fun fact about me: **I love Formula 1 😅** <br><br>
 
 
 ## 🌐 Reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duncan-gatuthu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_hellodun) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duncan-gatuthu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hellodun) 
 
 ### 💻 Tech Stack:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
