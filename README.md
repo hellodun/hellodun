@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm ***Duncan***, a System and Azure cloud engineer. I work in an on-prem cloud infrastructure team and also exploring the cloud with Azure. <br><br>
+I'm ***Duncan***, a Systems admin and Azure cloud engineer. I work in an on-prem cloud infrastructure team and also exploring the cloud with Azure. <br><br>
 On the side, I do Software development and share what I'm learning along the way. <br><br>
 
 - 🌱 I’m currently learning **NextJS, Bash, Ansible & Kubernetes**<br><br>
