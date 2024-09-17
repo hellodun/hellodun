@@ -2,7 +2,7 @@
 I'm ***Duncan***, a Systems admin and Azure cloud engineer. I work in an on-prem cloud infrastructure team and also exploring the cloud with Azure. <br><br>
 On the side, I do Software development and share what I'm learning along the way. <br><br>
 
-- 🌱 I’m currently learning **NextJS, Bash, Ansible & Kubernetes**<br><br>
+- 🌱 I’m currently learning **Micro-service development, Jenkins, Ansible, Kubernetes and Apigee**<br><br>
 - 📝 I write about the tech I'm using and learning at [Dun in Cloud](https://hellodun.hashnode.dev/) on hashnode <br><br>
 - 💬 Ask me about **Azure, Linux, Docker, Go**<br><br>
 - ⚡ Fun fact about me: **I love Formula 1 😅** <br><br>
